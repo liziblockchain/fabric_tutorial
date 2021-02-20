@@ -8,4 +8,4 @@ The Tutorial for Hyperledger Fabric
 - Links
   - [Fabric资源大全](misc/resources.md)
 - Fabric基础
-  - [比特币源码的流程分析说明](bitcoin/比特币源码的流程分析说明.txt)
+  - [Fabric开发环境搭建 on Ubuntu](bitcoin/比特币源码的流程分析说明.txt)
