@@ -1,6 +1,13 @@
 
 # Hyperledger Fabric 资源大全
-----
+
+
+- 基本信息
+  - 官方主页：https://www.hyperledger.org/projects/fabric
+  - github首页：https://github.com/hyperledger/fabric
+  - 文档：https://hyperledger-fabric.readthedocs.io
+  - Wiki：https://wiki.hyperledger.org/display/fabric
+  - 问题跟踪列表：https://jira.hyperledger.org/secure/Dashboard.jspa?selectPageId=10104
 
 
 - Fabric Chaincode API
